@@ -1,4 +1,4 @@
-## Hi there
+## Heyy there
 
 I'm currently learning **Information Technology** and building my coding foundations.  
 Exploring Python, Web Development, and practical IT skills. 
